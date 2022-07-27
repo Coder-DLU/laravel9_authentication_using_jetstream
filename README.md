@@ -17,7 +17,7 @@ php artisan jetstream:install livewire
 OR
 php artisan jetstream:install livewire --teams
 ```
-- Dùng node js package  
+- Dùng node js package (Cài Node.js) 
 ```Dockerfile
 npm install
 ```
