@@ -29,6 +29,8 @@ npm run dev
 ```Dockerfile
 php artisan migrate
 ```
+Bây giờ, bạn có thể chạy và kiểm tra
+
 # Laravel 9 Auth Scaffolding using Inertia Jetstream
 ## 1. Install Laravel 9
 ```Dockerfile
